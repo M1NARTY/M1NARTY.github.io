@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 한세대학교 컴퓨터공학과 23학번 이수민입니다!
 ---
 # 나약한 개발자 지망생
