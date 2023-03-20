@@ -5,7 +5,7 @@ title: 한세대학교 컴퓨터공학과 23학번 이수민입니다!
 <!-- Text attributes -->
 ## 한세대학교 컴퓨터공학과 23학번 **이수민**입니다 :D  
 
-![Selfie](https://raw.githubusercontent.com/M1NARTY/M1NARTY.github.io/master/_images/profile01.webp)  
+![Selfie](https://raw.githubusercontent.com/M1NARTY/M1NARTY.github.io/master/_images/profile-01.webp)  
 
 
  ### 안녕하세요 :D 한세대학교 컴퓨터공학과에 재학 중인 23학번  **이수민**입니다!  
